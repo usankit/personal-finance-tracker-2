@@ -1,0 +1,24 @@
+/* Custom CSS for form styling */
+form {
+  max-width: 400px; /* Adjust max-width as needed */
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+mat-form-field {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+mat-radio-button {
+  margin-right: 20px; /* Adjust margin as needed */
+}
+
+button {
+  display: block;
+  width: 100%;
+  margin-top: 20px;
+}
